@@ -1,4 +1,8 @@
 create database Week2
+go
+use Week2
+go
+
 
 create table customers
 (
